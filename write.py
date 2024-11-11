@@ -1,2 +1,3 @@
 file=open('file.txt','w')
-file.write('hello ok')
+print(file.write('hello ok'))
+print(file.read())
